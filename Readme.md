@@ -1,0 +1,1 @@
+*martin amca nın serüvenelri
