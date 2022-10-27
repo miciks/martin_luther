@@ -1,0 +1,23 @@
+::selection {
+    background: yellow;
+    color: blue;
+}  
+
+p::selection {
+    background: blue;
+    color: yellow;
+}
+/*yazıları iki yana yasla*/
+p {
+    text-align: justify;
+}
+
+/* header da paragrafların olduğu resim */
+header {
+    background-image: url(../image/Bckground.jpg)
+}
+
+p {
+    color: hsla(0, 27%, 89%, 0.8);
+}*-*09876r4w2q1 1568
+:ön vc 
